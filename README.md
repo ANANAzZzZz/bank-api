@@ -21,4 +21,4 @@ API Физического лица (клиента), должно позвол�
 * H2
 
 ## Swagger 
-http://localhost:8080/v1/swagger-ui/index.html
+http://localhost:8080/swagger-ui/index.html
