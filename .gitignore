@@ -35,6 +35,5 @@ file.
 .mvn
 mvnw
 mvnw.cmd
-src/main/resources/application.properties
 http-request.http
 src/test/resources
